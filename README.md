@@ -1,4 +1,4 @@
-# Print lines in order from oldest to newest.
+# List lines of course code from Git in order from oldest to newest.
 
 Usage: `sh find-oldest-line.sh > OLDEST_LINES.txt`
 
